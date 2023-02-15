@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philipckwan
-- 👀 I’m interested in software development, web development, blockchain and smart contract development
-- 🌱 I’m currently learning blockchain, smart contract development
-- 💞️ I’m looking to collaborate on blockchain, smart contract development
+- 👀 I’m interested in software development, web development, web3 and blockchain development
+- 🌱 I’m currently working on web3, blockchain, smart contract projects
+- 💞️ I’m looking to collaborate on web3, blockchain, smart contract, dApps and web applications and projects
 - 📫 How to reach me: email to philipckwan (at) gmail (dot) com
 
 <!---
